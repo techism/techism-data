@@ -7,5 +7,5 @@ File `techism-data.dump` contains a dump of the PostgreSQL database. Only previo
 
 File `techism-events.csv` contains a CSV export of the event data.
 
-File `techism-events.ipynb` is a Jupyter Notebook with some analysis and visualizations of the event data.
+File `techism-events.ipynb` is a Jupyter Notebook with some analysis and visualizations of the event data. View at <https://nbviewer.jupyter.org/github/techism/techism-data/blob/master/techism-events.ipynb>.
 
